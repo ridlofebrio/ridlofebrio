@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @febrio
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning html css js
+- 🌱 I’m currently learning java, mysql 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
