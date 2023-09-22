@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @febrio
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning java, mysql 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Study at Politeknik Negeri Malang
+
 
 <!---
 ridlofebrio/ridlofebrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
